@@ -3,7 +3,14 @@
 
 My name is **John Mutchka**, and after many years I bit the bullet, decided to get another graduate degree and return to a career In Data Analytics.  Thank you for visiting my page!  
 
+***About me:***  I was born and raised in Coal Run, Pennsylvania.  My father was a steel worker at Pittsburgh's Jones & Laughlin Steel Mill, and my mother was a custodian at Indiana University of Pennsylvania (IUP).  It was there that I received my BA in Anthropology, focusing on Archaeology and later Applied Anthropology with a focus on qualititive ethnographic inquiry into economic inequality, community development, and cooperative labor.  I recieved a MA in Applied Social Research from West Virginia University (WVU), and it was there that first studied advanced statistical methods (Factor analysis, LISREL, Mancova, Clustering, and many forms of Mutiple Regression).  Upon completion my MA I found employment at the University of Pittsburgh Medical Center (UPMC) working with two child development psychologists, Drs. Rolf and Magda Loeber.  Working as their Sr. Data Analyst on a longitudinal study called the *Development Trends Study* I became adept at database management, and also statistical methods such as Survival Analyses and Longitudinal Regression modeling.
 
+I enjoyed the work at UPMC, but after some years my heart was wanting to be out doing field work, hands-on community development.  An opportunity presented iteself and gave me the opportunity to purchase a small retail coffeehouse chain, and I took it.  It placed me directly into the local community and afforded me the ability to work with many community developers and groups, with the coffee shops being a staging ground for meetings, seminars, recruitment, and information exchange.  After 12 years I moved on from the business because, frankly, I needed a break.  Amongst other endeavors, I started a tree care business with only two employees and have been climbing trees until about a year ago when I registered for courses for my current MS in Data Analytics from Slippery Rock University (SRU).  I will be completing my degree in 2026, but I am looking for work now. 
+
+The page you are reading now is under development and I have much to add to it.  It's my first Github profile and there are many projects I have to add.  If you are a recruiter and have read this far, that's kinda impressive... thank you!  I'll be contunually adding projects to this, once I learn how to use it, and how to make it look good.   If at any time during its development you have questions, please reach out.  I'd love to talk with you.
+
+Thanks again, and have a great day!  
+Sincerely, John Mutchka
 
 <!-- Here are some ideas to get you started:
 
