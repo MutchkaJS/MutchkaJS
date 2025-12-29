@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hey, All 👋
 
-<!--
-**MutchkaJS/MutchkaJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is **John Mutchka**, and after many years I bit the bullet, decided to get another graduate degree and return to a career In Data Analytics.  Thank you for visiting my page!  
+
+
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
