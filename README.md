@@ -3,6 +3,11 @@
 
 My name is **John Mutchka**, and after many years I bit the bullet, decided to get another graduate degree and return to a career In Data Analytics.  Thank you for visiting my page!  
 
+I am currently developing this page, and learing Github at the same time.  I have a decent body of work in Data Analysis, but I have to learn how best to add it to this profile.  What I'm saying is that this is a work in progress.  Pogressively, content will be added as I prepare it.  If you arrived here from my LinkedIn page, or from an employment application... ***DOUBLE*** THANK YOU!! Examples of my work are coming soon!
+
+Hope you're well,
+Sincerely, John Mutchka
+
 ***About me:*** 
 
 <!-- Here are some ideas to get you started:
