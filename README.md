@@ -9,6 +9,8 @@ Hope you're well,
 Sincerely, John Mutchka
 
 ***About me:*** 
+- [ ] M.A. Applied Social Research
+- [ ] M.S. Data Analytics (in process)
 
 <!-- Here are some ideas to get you started:
 
@@ -21,3 +23,7 @@ Sincerely, John Mutchka
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+degrees
