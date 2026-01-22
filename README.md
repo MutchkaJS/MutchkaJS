@@ -17,8 +17,6 @@ Sincerely, John Mutchka
 0300 - 0400     SRU Graduate Coursework  
 1000            Project Repo Websites  
 
-
-
 ***About me:*** 
 - [ ] M.A. Applied Social Research
 - [ ] M.S. Data Analytics (in process)
