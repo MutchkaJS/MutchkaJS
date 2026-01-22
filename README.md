@@ -10,6 +10,15 @@ Just a quick update.  I have listed a number of repositories that were created t
 Hope you're well,
 Sincerely, John Mutchka
 
+### Repositories are binned as follows: ###
+0001            MUTCHKAJS.README   
+0100 - 0200     Python Exercises  
+0200 - 0300     Skill Exercises  
+0300 - 0400     SRU Graduate Coursework  
+1000            Project Repo Websites  
+
+
+
 ***About me:*** 
 - [ ] M.A. Applied Social Research
 - [ ] M.S. Data Analytics (in process)
