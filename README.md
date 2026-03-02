@@ -17,7 +17,10 @@ Sincerely, John Mutchka
 0300 - 0399     R Based  
 0400 - 0499     SAS Based  
 0500 - 0599     Database Focused (SQL, NEO4j)  
-1000            Project Repo Websites    
+0600 - 0699     Tableau & PowerBI Based  
+0700 - 0799     Composite Projects  
+0800 - 0899     Operations Management Based (Optimization, System Analysis)  
+1000            Project Repo Websites      
 
 ***About me:*** 
 - [ ] M.A. Applied Social Research
