@@ -12,12 +12,12 @@ Sincerely, John Mutchka
 
 ### Repositories are binned as follows: ###
 0001            MUTCHKAJS.README   
-0100 - 0199     Python Based 
-0200 - 0299     GitHub Based 
-0300 - 0399     R Based
-0400 - 0499     SAS Based
-0500 - 0599     Database Focused (SQL, NEO4j)
-1000            Project Repo Websites  
+0100 - 0199     Python Based  
+0200 - 0299     GitHub Based  
+0300 - 0399     R Based  
+0400 - 0499     SAS Based  
+0500 - 0599     Database Focused (SQL, NEO4j)  
+1000            Project Repo Websites    
 
 ***About me:*** 
 - [ ] M.A. Applied Social Research
@@ -34,7 +34,3 @@ Sincerely, John Mutchka
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-degrees
