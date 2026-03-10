@@ -3,7 +3,7 @@
 
 My name is **John Mutchka**, and after many years I bit the bullet, decided to get another graduate degree and return to a career In Data Science.  Thank you for visiting my page!  
 
-I am currently developing this page, and learing Github at the same time.  I have a decent body of work, but I have to add it this profile.  What I'm saying is that this is a work in progress.  Pogressively, content will be added as I prepare it. The formatting and README documentation takes time (just remembering the processes I used, and finding the files takes time!) If you arrived here from my LinkedIn page, or from an employment application... ***DOUBLE*** THANK YOU!! Examples of my work are coming soon!
+I am currently developing this page, and learing Github at the same time.  I have a decent body of work, but I have to add it this profile.  What I'm saying is that this is a work in progress.  Progressively, content will be added as I prepare it.  I have work to exemplify each group of repositories and I'll eventually get them all added. The formatting and README documentation takes time (just remembering the processes I used, and finding the files takes time!) If you arrived here from my LinkedIn page, or from an employment application... ***DOUBLE*** THANK YOU!! Examples of my work are coming soon!
 
 Hope you're well,
 Sincerely, John Mutchka
