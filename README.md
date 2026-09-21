@@ -1,4 +1,4 @@
-# John Mutchka
+# John Samuel Mutchka
 
 **Data Science | Data Analysis | Applied Social Research | Political & Survey Analytics**
 Pittsburgh, PA · M.S. Data Analytics (Slippery Rock University, 2026) · M.A. Applied Social Research (West Virginia University)
